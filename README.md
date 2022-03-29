@@ -101,6 +101,8 @@ There are three ways to do this FIFO sizing:
 
 As the above figure shows, right-click on the highlighted data_channel1 row(and data_channel2) and select the Modify Depth option. This displays the Modify Depth dialog box as shown below.
 
+![image](https://user-images.githubusercontent.com/102540321/160525835-fb37110a-2378-47c9-9d06-e47436574eff.png)
+
 Set the new depth as 4
 
 Changing complete.Rerun co-simulation.
